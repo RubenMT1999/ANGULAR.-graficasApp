@@ -1,0 +1,6 @@
+
+las paginas estan pensadas para ser las rutas de mi aplicacion y 
+components serán pequeñas piezas que estarán dentro de las paginas
+y otros componentes.
+
+Para instalar elng2-charts tuve que actualizar angular a la version 14
